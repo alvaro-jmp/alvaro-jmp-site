@@ -1,0 +1,23 @@
+{
+  "name": "notes-discrete-math-fb",
+  "main": "1dbb5ea4edb292ae@4261.js",
+  "version": "0.0.1",
+  "description": "notes-discrete-math-fb",
+  "author": {
+    "name": "alvaro-jmp",
+    "url": "https://twitter.com/_ajmp_"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "serve": "./node_modules/.bin/firebase serve --only hosting --port 5000 --host 0.0.0.0",
+    "deploy": "./node_modules/.bin/firebase deploy --only hosting"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.9.3",
+    "firebase-functions": "^3.3.0",
+    "firebase-tools": "^7.14.0"
+  }
+}
