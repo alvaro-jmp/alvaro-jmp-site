@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notas - Platzi - Matemáticas discretas - Light Version - [SPANISH]
 
 [FULL Version] with js modifiable:
@@ -49,3 +50,7 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+=======
+# alvaro-jmp
+
+>>>>>>> 8a1a52ca2920ffb69756aa7a5704d4a0cc81e9de
