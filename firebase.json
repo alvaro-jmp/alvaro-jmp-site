@@ -6,15 +6,6 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "headers": [
-      {
-        "source": "/notes-discrete-math-platzi/",
-        "headers": [{
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        }]
-      }
-    ],
     "rewrites": [
       {
         "source": "/",
